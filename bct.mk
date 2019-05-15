@@ -20,3 +20,5 @@ PRODUCT_COPY_FILES += \
     $(BCT_FILES_PATH)/sdram/tegra194-mb1-bct-memcfg-4gb-p2888.cfg:tegra194-mb1-bct-memcfg-4gb-p2888.cfg \
     $(BCT_FILES_PATH)/sdram/tegra194-mb1-bct-memcfg-derated-p2888.cfg:tegra194-mb1-bct-memcfg-derated-p2888.cfg \
     $(BCT_FILES_PATH)/sdram/tegra194-mb1-bct-memcfg-p2888.cfg:tegra194-mb1-bct-memcfg-p2888.cfg
+    $(BCT_FILES_PATH)/sdram/tegra194-mb1-bct-memcfg-p2888-0006.cfg:tegra194-mb1-bct-memcfg-p2888-0006.cfg
+    $(BCT_FILES_PATH)/sdram/tegra194-mb1-bct-memcfg-derated-p2888-0006.cfg:tegra194-mb1-bct-memcfg-derated-p2888-0006.cfg \
